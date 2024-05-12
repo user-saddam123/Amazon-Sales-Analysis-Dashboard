@@ -24,7 +24,7 @@ This comprehensive dataset not only encompasses transactional details but also i
 
 In line with the objectives and project requirements, I have utilized Power BI, a powerful business intelligence tool, for dashboard creation. Additionally, I have employed Excel to some extent to ensure that the data is formatted clearly and in a usable manner.
 
-➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
 ### Lets Move to our insights Section:
 
@@ -40,7 +40,7 @@ In response to the problem statement and objective, three distinct pages have be
 
 This multi-page approach ensures a nuanced exploration of the dataset, catering to diverse analytical needs and enhancing decision-making capabilities for stakeholders.
 
-➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
 ## Detailed Explanation:
 
@@ -48,7 +48,7 @@ This multi-page approach ensures a nuanced exploration of the dataset, catering 
 
 ![Screenshot 2024-05-12 092416](https://github.com/user-saddam123/Amazon-Sales-Analysis-Dashboard/assets/123800896/907a33b1-1cc6-4ea1-ad8f-5c8c60532844)
 
-➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
 ![Screenshot 2024-05-12 132500](https://github.com/user-saddam123/Amazon-Sales-Analysis-Dashboard/assets/123800896/272fc2c1-a90f-4228-a5a5-e5ef9da09bb5)
 
@@ -89,7 +89,7 @@ Lastly, at the bottom of the page, a line chart has been incorporated to visuali
 
 This comprehensive arrangement of visualizations and interactive features equips users with the tools necessary for in-depth analysis and informed decision-making based on the provided dataset.
 
-✨﻿➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨﻿
+✨﻿➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨﻿
 
 ## Page two: Product
 
@@ -102,7 +102,7 @@ This comprehensive arrangement of visualizations and interactive features equips
 
  * Its main function is to showcase products within a chosen category rather than delving deeply into analytical insights.
 
-✨✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨✨
+✨✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨✨
 
 ## Page Three: Product View
 
@@ -115,7 +115,7 @@ Through the utilization of slicers, users can select any product and subsequentl
 
 This interactive approach empowers users to delve into specific product details, facilitating a comprehensive understanding of individual product performance within the dataset.
 
-✨✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨✨
+✨✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨✨
 
 ### My Learnings:
 
@@ -131,7 +131,7 @@ This interactive approach empowers users to delve into specific product details,
 
 Overall, this project has provided me with valuable hands-on experience in data analysis, dashboard design, and communication, equipping me with essential skills for leveraging data effectively in various domains.
 
-✨✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨✨
+✨✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨✨
 
 ## How Can You Help Me
 
@@ -146,5 +146,7 @@ I hope you found this project enjoyable and insightful.😊😊
 ✨✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨✨
 
 Created and Analyzed by:
+
 Saddam Ansari @Aspiring Data Analyst [LinkedIn](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
+
 Location: India
